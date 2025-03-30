@@ -27,6 +27,7 @@
             "name": "Model",
             "default_value": "google/gemma-3-27b-it:free",
             "options": [
+                {"text": "Google: Gemini Pro 2.5 Experimental", "value": "google/gemini-2.5-pro-exp-03-25"},
                 {"text": "Google: Gemma 3 27B", "value": "google/gemma-3-27b-it:free"},
                 {"text": "DeepSeek: DeepSeek V3 0324", "value": "deepseek/deepseek-chat-v3-0324:free"},
                 {"text": "Mistral: Mistral Small 3.1 24B", "value": "mistralai/mistral-small-3.1-24b-instruct:free"},
